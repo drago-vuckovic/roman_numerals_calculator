@@ -1,2 +1,2 @@
-# roman_numerals_calculator
+# Roman Numerals Calculator
 Roman Numerals Calculator
